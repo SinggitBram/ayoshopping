@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "713244706516",
+    "firebase_url": "https://ayoshopping-fbaff.firebaseio.com",
+    "project_id": "ayoshopping-fbaff",
+    "storage_bucket": "ayoshopping-fbaff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713244706516:android:4f2e317ef9feb2311bdd41",
+        "android_client_info": {
+          "package_name": "com.ayoshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713244706516-j11poqarf7otcq8knfi73ddqp6b8kpsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVTeplXfMGpJaK0n4hKWqI0cXeTOHdUNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713244706516-j11poqarf7otcq8knfi73ddqp6b8kpsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
